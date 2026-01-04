@@ -1,5 +1,8 @@
 ## Problem Statement: AI-Powered Medicine Safety and Authenticity Assistant
 
+
+https://claude.ai/public/artifacts/85a786be-84bd-455b-bbdd-582eb85dc9ed
+
 Counterfeit and substandard medicines remain a critical public health challenge in India,
 alongside widespread lack of awareness about proper drug usage, side effects, and
 condition-specific risks.
