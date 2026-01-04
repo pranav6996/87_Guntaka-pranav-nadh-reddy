@@ -1,6 +1,6 @@
 
 ### Guidelines for Participants:
-1. You initiate the hackathon by forking the Git repository given by GenAIVersity, which
+1. You initiate the hackathon by forking the Git repository given by PythonGuru, which
 contains instructions and guidelines for the event.
 
 2. Your initial change must involve updating the README.md file to include a
@@ -20,7 +20,7 @@ has additional weightage for evaluation.
 6. If you are utilizing local LLMS, ensure they are downloaded and prepared prior to the
 hackathon, since they require significant internet bandwidth. If employing external APIs
 such as OpenAI, Gemini, or Anthropic, you must provide your API key,
-as GenAIVersity does not supply one.
+as PythonGuru does not supply one.
 
 7. You are permitted to utilize Generative AI tools such as ChatGPT, Gemini, Perplexity,
 and coding tools like Copilot and Cursor; however, you must retain conversation history

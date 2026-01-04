@@ -1,0 +1,13 @@
+django
+djangorestframework
+django-cors-headers
+python-dotenv
+Pillow
+pytesseract
+openai
+langchain
+langchain-community
+langchain-openai
+langchain-core
+# chromadb 
+pypdf
